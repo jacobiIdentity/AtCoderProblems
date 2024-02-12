@@ -1,0 +1,27 @@
+//参考URL   https://ron-tech.hatenablog.com/entry/2021/01/23/193107
+//terminal 開く
+ctrl + ` 
+// atcoder LOGIN
+oj login -u jacobiIdentity -p jacobiIdentity1 "https://atcoder.jp/"
+// login check
+oj login --check "https://atcoder.jp/"
+// ファイル移動 pwd: 今のディレクトリ確認
+cd /Users/satoryo/Desktop/atcoder
+// directory 作成
+acc new abcXXX
+//下記を最初に書く
+#!/usr/bin/env python3
+//debug a.py:ファイル名, tests:テストケースのパス "./a/tests"
+oj t -c "python3 a.py" -d "./a/tests"
+// 後ろのスペースで怒られたら
+--ignore-spaces
+-S
+--ignore-spaces-and-newline
+-N
+//submit コンテスト名_問題難易度
+acc s b.py -t abc188_b -- --guess-python-interpreter pypy
+
+oj t -c "python3 c.py" -d "./c/tests"
+acc s c.py -t abc181_c -- --guess-python-interpreter pypy
+
+oj t -c "python3 main.py" -d ./tests/
