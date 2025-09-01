@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20250211_2",
+    "title": "AtCoder Daily Training EASY 2025/02/11 17:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20250211_2"
+  },
+  "tasks": [
+    {
+      "id": "abc372_a",
+      "label": "A",
+      "title": "delete .",
+      "url": "https://atcoder.jp/contests/adt_easy_20250211_2/tasks/abc372_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc387_a",
+      "label": "B",
+      "title": "Happy New Year 2025",
+      "url": "https://atcoder.jp/contests/adt_easy_20250211_2/tasks/abc387_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc272_b",
+      "label": "C",
+      "title": "Everyone is Friends",
+      "url": "https://atcoder.jp/contests/adt_easy_20250211_2/tasks/abc272_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc355_b",
+      "label": "D",
+      "title": "Piano 2",
+      "url": "https://atcoder.jp/contests/adt_easy_20250211_2/tasks/abc355_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc278_c",
+      "label": "E",
+      "title": "FF",
+      "url": "https://atcoder.jp/contests/adt_easy_20250211_2/tasks/abc278_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

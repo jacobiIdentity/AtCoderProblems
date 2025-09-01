@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20250225_2",
+    "title": "AtCoder Daily Training EASY 2025/02/25 17:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20250225_2"
+  },
+  "tasks": [
+    {
+      "id": "abc287_a",
+      "label": "A",
+      "title": "Majority",
+      "url": "https://atcoder.jp/contests/adt_easy_20250225_2/tasks/abc287_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc320_a",
+      "label": "B",
+      "title": "Leyland Number",
+      "url": "https://atcoder.jp/contests/adt_easy_20250225_2/tasks/abc320_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc269_b",
+      "label": "C",
+      "title": "Rectangle Detection",
+      "url": "https://atcoder.jp/contests/adt_easy_20250225_2/tasks/abc269_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc277_b",
+      "label": "D",
+      "title": "Playing Cards Validation",
+      "url": "https://atcoder.jp/contests/adt_easy_20250225_2/tasks/abc277_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc337_c",
+      "label": "E",
+      "title": "Lining Up 2",
+      "url": "https://atcoder.jp/contests/adt_easy_20250225_2/tasks/abc337_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

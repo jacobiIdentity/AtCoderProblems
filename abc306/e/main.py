@@ -39,11 +39,22 @@ for i in range(q) :
             print(ans)
             continue
     if x in d :
-        cnt -= 1
-        d[x] = y
-        if m < y :
-            ans -= m
-            ans += y
+        if topK[x] :
+            if d[m] <= y :
+                ans -= d[x]
+                ans += y
+                topK[m] = False
+            else :
+                tmp = 0
+                for i in range(d) :
+                    if topK :
+                        continue
+                    tmp = max(tmp, d[i])
+                ans -= d[x]
+                
+
+            d[x] = y
+        
             
     elif 
         if 

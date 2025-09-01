@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20250304_1",
+    "title": "AtCoder Daily Training EASY 2025/03/04 15:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20250304_1"
+  },
+  "tasks": [
+    {
+      "id": "abc253_a",
+      "label": "A",
+      "title": "Median?",
+      "url": "https://atcoder.jp/contests/adt_easy_20250304_1/tasks/abc253_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc373_a",
+      "label": "B",
+      "title": "September",
+      "url": "https://atcoder.jp/contests/adt_easy_20250304_1/tasks/abc373_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc283_b",
+      "label": "C",
+      "title": "First Query Problem",
+      "url": "https://atcoder.jp/contests/adt_easy_20250304_1/tasks/abc283_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc233_b",
+      "label": "D",
+      "title": "A Reverse",
+      "url": "https://atcoder.jp/contests/adt_easy_20250304_1/tasks/abc233_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc293_c",
+      "label": "E",
+      "title": "Make Takahashi Happy ",
+      "url": "https://atcoder.jp/contests/adt_easy_20250304_1/tasks/abc293_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20250211_1",
+    "title": "AtCoder Daily Training EASY 2025/02/11 15:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20250211_1"
+  },
+  "tasks": [
+    {
+      "id": "abc282_a",
+      "label": "A",
+      "title": "Generalized ABC",
+      "url": "https://atcoder.jp/contests/adt_easy_20250211_1/tasks/abc282_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc376_a",
+      "label": "B",
+      "title": "Candy Button",
+      "url": "https://atcoder.jp/contests/adt_easy_20250211_1/tasks/abc376_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc301_b",
+      "label": "C",
+      "title": " Fill the Gaps",
+      "url": "https://atcoder.jp/contests/adt_easy_20250211_1/tasks/abc301_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc260_b",
+      "label": "D",
+      "title": "Better Students Are Needed!",
+      "url": "https://atcoder.jp/contests/adt_easy_20250211_1/tasks/abc260_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc231_c",
+      "label": "E",
+      "title": "Counting 2",
+      "url": "https://atcoder.jp/contests/adt_easy_20250211_1/tasks/abc231_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

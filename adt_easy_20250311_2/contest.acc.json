@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20250311_2",
+    "title": "AtCoder Daily Training EASY 2025/03/11 17:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20250311_2"
+  },
+  "tasks": [
+    {
+      "id": "abc221_a",
+      "label": "A",
+      "title": "Seismic magnitude scales",
+      "url": "https://atcoder.jp/contests/adt_easy_20250311_2/tasks/abc221_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc288_a",
+      "label": "B",
+      "title": "Many A+B Problems",
+      "url": "https://atcoder.jp/contests/adt_easy_20250311_2/tasks/abc288_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc306_b",
+      "label": "C",
+      "title": "Base 2",
+      "url": "https://atcoder.jp/contests/adt_easy_20250311_2/tasks/abc306_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc242_b",
+      "label": "D",
+      "title": "Minimize Ordering",
+      "url": "https://atcoder.jp/contests/adt_easy_20250311_2/tasks/abc242_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc326_c",
+      "label": "E",
+      "title": "Peak",
+      "url": "https://atcoder.jp/contests/adt_easy_20250311_2/tasks/abc326_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

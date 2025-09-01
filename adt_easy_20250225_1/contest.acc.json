@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20250225_1",
+    "title": "AtCoder Daily Training EASY 2025/02/25 15:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20250225_1"
+  },
+  "tasks": [
+    {
+      "id": "abc306_a",
+      "label": "A",
+      "title": "Echo",
+      "url": "https://atcoder.jp/contests/adt_easy_20250225_1/tasks/abc306_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc230_a",
+      "label": "B",
+      "title": "AtCoder Quiz 3",
+      "url": "https://atcoder.jp/contests/adt_easy_20250225_1/tasks/abc230_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc326_b",
+      "label": "C",
+      "title": "326-like Numbers",
+      "url": "https://atcoder.jp/contests/adt_easy_20250225_1/tasks/abc326_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc332_b",
+      "label": "D",
+      "title": "Glass and Mug",
+      "url": "https://atcoder.jp/contests/adt_easy_20250225_1/tasks/abc332_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc343_c",
+      "label": "E",
+      "title": "343",
+      "url": "https://atcoder.jp/contests/adt_easy_20250225_1/tasks/abc343_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

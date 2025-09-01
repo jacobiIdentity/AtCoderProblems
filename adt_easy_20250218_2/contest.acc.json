@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20250218_2",
+    "title": "AtCoder Daily Training EASY 2025/02/18 17:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20250218_2"
+  },
+  "tasks": [
+    {
+      "id": "abc265_a",
+      "label": "A",
+      "title": "Apple",
+      "url": "https://atcoder.jp/contests/adt_easy_20250218_2/tasks/abc265_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc386_a",
+      "label": "B",
+      "title": "Full House 2",
+      "url": "https://atcoder.jp/contests/adt_easy_20250218_2/tasks/abc386_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc238_b",
+      "label": "C",
+      "title": "Pizza",
+      "url": "https://atcoder.jp/contests/adt_easy_20250218_2/tasks/abc238_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc292_b",
+      "label": "D",
+      "title": "Yellow and Red Card",
+      "url": "https://atcoder.jp/contests/adt_easy_20250218_2/tasks/abc292_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc250_c",
+      "label": "E",
+      "title": "Adjacent Swaps",
+      "url": "https://atcoder.jp/contests/adt_easy_20250218_2/tasks/abc250_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

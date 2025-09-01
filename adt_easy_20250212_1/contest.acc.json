@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20250212_1",
+    "title": "AtCoder Daily Training EASY 2025/02/12 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20250212_1"
+  },
+  "tasks": [
+    {
+      "id": "abc330_a",
+      "label": "A",
+      "title": "Counting Passes",
+      "url": "https://atcoder.jp/contests/adt_easy_20250212_1/tasks/abc330_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc289_a",
+      "label": "B",
+      "title": "flip",
+      "url": "https://atcoder.jp/contests/adt_easy_20250212_1/tasks/abc289_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc231_b",
+      "label": "C",
+      "title": "Election",
+      "url": "https://atcoder.jp/contests/adt_easy_20250212_1/tasks/abc231_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc290_b",
+      "label": "D",
+      "title": "Qual B",
+      "url": "https://atcoder.jp/contests/adt_easy_20250212_1/tasks/abc290_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc382_c",
+      "label": "E",
+      "title": "Kaiten Sushi",
+      "url": "https://atcoder.jp/contests/adt_easy_20250212_1/tasks/abc382_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

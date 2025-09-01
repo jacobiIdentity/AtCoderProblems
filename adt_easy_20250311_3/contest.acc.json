@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20250311_3",
+    "title": "AtCoder Daily Training EASY 2025/03/11 19:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20250311_3"
+  },
+  "tasks": [
+    {
+      "id": "abc353_a",
+      "label": "A",
+      "title": "Buildings",
+      "url": "https://atcoder.jp/contests/adt_easy_20250311_3/tasks/abc353_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc315_a",
+      "label": "B",
+      "title": "tcdr",
+      "url": "https://atcoder.jp/contests/adt_easy_20250311_3/tasks/abc315_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc285_b",
+      "label": "C",
+      "title": "Longest Uncommon Prefix",
+      "url": "https://atcoder.jp/contests/adt_easy_20250311_3/tasks/abc285_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc391_b",
+      "label": "D",
+      "title": "Seek Grid",
+      "url": "https://atcoder.jp/contests/adt_easy_20250311_3/tasks/abc391_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc230_c",
+      "label": "E",
+      "title": "X drawing",
+      "url": "https://atcoder.jp/contests/adt_easy_20250311_3/tasks/abc230_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

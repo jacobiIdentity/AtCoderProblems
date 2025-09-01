@@ -1,0 +1,12 @@
+#!/usr/bin/env python3
+x = input()
+x0 = int(x[0])
+x1 = int(x[1])
+x2 = int(x[2])
+x3 = int(x[3])
+if x.count(x[0]) == 4 : print('Weak')
+elif x0<7 and x0==x1-1==x2-2==x3-3 : print("Weak")
+elif x0==7 and x0==x1-1==x2-2 and x3==0 : print("Weak")
+elif x0==8 and x0==x1-1 and x2==0==x3-1  : print("Weak")
+elif x0==9 and x1==0==x2-1==x3-2  : print("Weak")
+else : print('Strong')

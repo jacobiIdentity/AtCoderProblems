@@ -7,4 +7,8 @@ for i in range(n) :
     for j in range(n) :
         cnt += 1 if p_ij[i][j] == 'B' else 0
         cms[i][j] = cnt
-print(cms)
+# print(cms)
+all = sum([cms[j][n-1] for j in range(n)])
+for  _ in range(q) :
+    a,b,c,d = map(int,input().split())
+    mid

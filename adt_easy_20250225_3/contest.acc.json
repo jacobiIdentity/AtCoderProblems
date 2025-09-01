@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20250225_3",
+    "title": "AtCoder Daily Training EASY 2025/02/25 19:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20250225_3"
+  },
+  "tasks": [
+    {
+      "id": "abc313_a",
+      "label": "A",
+      "title": "To Be Saikyo",
+      "url": "https://atcoder.jp/contests/adt_easy_20250225_3/tasks/abc313_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc213_a",
+      "label": "B",
+      "title": "Bitwise Exclusive Or",
+      "url": "https://atcoder.jp/contests/adt_easy_20250225_3/tasks/abc213_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc322_b",
+      "label": "C",
+      "title": "Prefix and Suffix",
+      "url": "https://atcoder.jp/contests/adt_easy_20250225_3/tasks/abc322_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc212_b",
+      "label": "D",
+      "title": "Weak Password",
+      "url": "https://atcoder.jp/contests/adt_easy_20250225_3/tasks/abc212_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc290_c",
+      "label": "E",
+      "title": "Max MEX",
+      "url": "https://atcoder.jp/contests/adt_easy_20250225_3/tasks/abc290_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

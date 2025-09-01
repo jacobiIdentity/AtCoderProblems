@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20250213_3",
+    "title": "AtCoder Daily Training MEDIUM 2025/02/13 20:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20250213_3"
+  },
+  "tasks": [
+    {
+      "id": "abc360_b",
+      "label": "C",
+      "title": "Vertical Reading",
+      "url": "https://atcoder.jp/contests/adt_medium_20250213_3/tasks/abc360_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc387_b",
+      "label": "D",
+      "title": "9x9 Sum",
+      "url": "https://atcoder.jp/contests/adt_medium_20250213_3/tasks/abc387_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc322_c",
+      "label": "E",
+      "title": "Festival",
+      "url": "https://atcoder.jp/contests/adt_medium_20250213_3/tasks/abc322_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc363_c",
+      "label": "F",
+      "title": "Avoid K Palindrome 2",
+      "url": "https://atcoder.jp/contests/adt_medium_20250213_3/tasks/abc363_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc333_d",
+      "label": "G",
+      "title": "Erase Leaves",
+      "url": "https://atcoder.jp/contests/adt_medium_20250213_3/tasks/abc333_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

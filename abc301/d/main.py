@@ -5,17 +5,13 @@ n = int(input())
 if int(s.replace('?', '0'),base=2) > n :
     print(-1)
     exit()
-if int(s.replace('?', '1'),base=2) < n+1 :
-    print(int(s.replace('?', '1'),base=2))
-    exit()
-if len(s) > len(bin(n)[2:]):
-    s = s[len(s)-len(bin(n)[2:]):]
-q = s.count('?')
-t = s
-while q > 0 :
-    if int(s.replace('?', '1', 1).replace('?', '0')) < n :
-        t = t.replace('?', '1', 1)
+sList = ['0']*(max(0,len(format(n,'b'))-len(s)))+list(s)
+for i in range(len(sList)) :
+    if sList[i] != '?' :
+        continue
+    tmp = int(''.join(sList[:i])+'1'+s[i+1:].replace('?','0'),base=2)
+    if tmp > n :
+        sList[i]= '0'
     else :
-        t = t.replace('?', '0', 1)
-    q = t.count('?')
-print(int(t))
+        sList[i]= '1'
+print(int(''.join(sList),base=2))

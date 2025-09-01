@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20250211_3",
+    "title": "AtCoder Daily Training EASY 2025/02/11 19:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20250211_3"
+  },
+  "tasks": [
+    {
+      "id": "abc324_a",
+      "label": "A",
+      "title": "Same",
+      "url": "https://atcoder.jp/contests/adt_easy_20250211_3/tasks/abc324_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc322_a",
+      "label": "B",
+      "title": "First ABC 2",
+      "url": "https://atcoder.jp/contests/adt_easy_20250211_3/tasks/abc322_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc224_b",
+      "label": "C",
+      "title": "Mongeness",
+      "url": "https://atcoder.jp/contests/adt_easy_20250211_3/tasks/abc224_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc341_b",
+      "label": "D",
+      "title": "Foreign Exchange",
+      "url": "https://atcoder.jp/contests/adt_easy_20250211_3/tasks/abc341_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc233_c",
+      "label": "E",
+      "title": "Product",
+      "url": "https://atcoder.jp/contests/adt_easy_20250211_3/tasks/abc233_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

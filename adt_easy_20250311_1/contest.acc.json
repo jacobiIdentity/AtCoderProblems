@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20250311_1",
+    "title": "AtCoder Daily Training EASY 2025/03/11 15:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20250311_1"
+  },
+  "tasks": [
+    {
+      "id": "abc311_a",
+      "label": "A",
+      "title": "First ABC",
+      "url": "https://atcoder.jp/contests/adt_easy_20250311_1/tasks/abc311_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc348_a",
+      "label": "B",
+      "title": "Penalty Kick",
+      "url": "https://atcoder.jp/contests/adt_easy_20250311_1/tasks/abc348_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc246_b",
+      "label": "C",
+      "title": "Get Closer",
+      "url": "https://atcoder.jp/contests/adt_easy_20250311_1/tasks/abc246_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc248_b",
+      "label": "D",
+      "title": "Slimes",
+      "url": "https://atcoder.jp/contests/adt_easy_20250311_1/tasks/abc248_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc260_c",
+      "label": "E",
+      "title": "Changing Jewels",
+      "url": "https://atcoder.jp/contests/adt_easy_20250311_1/tasks/abc260_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

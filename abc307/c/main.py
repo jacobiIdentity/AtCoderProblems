@@ -8,8 +8,6 @@ x_h = [input() for _ in range(hx)]
 fha, lha, fwa, lwa = -1, -1, -1, -1
 fhb, lhb, fwb, lwb = -1, -1, -1, -1
 fhx, lhx, fwx, lwx = -1, -1, -1, -1
-dA = set()
-dB = set()
 dX = set()
 for i in range(ha) :
     for j in range(wa) :
@@ -32,9 +30,17 @@ for i in range(hx) :
             fwx = j if fwx == -1 else fwx
             lhx = max(lhx, i)
             lwx = max(lwx, j)
+            dX.add((i-fhx, j-fwx))
 newA = [a_h[i][fwa:lwa+1] for i in range(fha, lha+1)]
 newB = [b_h[i][fwb:lwb+1] for i in range(fhb, lhb+1)]
 newX = [x_h[i][fwx:lwx+1] for i in range(fhx, lhx+1)]
-print(newA, sep="\n")
-print(newB, sep="\n")
-print(newX, sep="\n")
+tmp = set()
+ans = 'No'
+for i in range(lhx-lha+1) :
+    for j in range(lwx-lwa+1) :
+        for 
+for i in range(fhx, lhx+1) :
+    for j in range(fwx, lhx+1) :
+        for k in range(fha, lha+1) :
+            for l in range(fwa, lwa+1) :
+                if 

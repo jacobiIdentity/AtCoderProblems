@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20250304_3",
+    "title": "AtCoder Daily Training EASY 2025/03/04 19:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20250304_3"
+  },
+  "tasks": [
+    {
+      "id": "abc365_a",
+      "label": "A",
+      "title": "Leap Year",
+      "url": "https://atcoder.jp/contests/adt_easy_20250304_3/tasks/abc365_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc236_a",
+      "label": "B",
+      "title": "chukodai",
+      "url": "https://atcoder.jp/contests/adt_easy_20250304_3/tasks/abc236_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc273_b",
+      "label": "C",
+      "title": "Broken Rounding",
+      "url": "https://atcoder.jp/contests/adt_easy_20250304_3/tasks/abc273_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc220_b",
+      "label": "D",
+      "title": "Base K",
+      "url": "https://atcoder.jp/contests/adt_easy_20250304_3/tasks/abc220_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc298_c",
+      "label": "E",
+      "title": "Cards Query Problem",
+      "url": "https://atcoder.jp/contests/adt_easy_20250304_3/tasks/abc298_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
