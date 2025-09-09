@@ -15,10 +15,3 @@ for S in range((1<<n)-1) :
         dp[S|(1<<i)] %= MOD
 print(dp[-1])
 
-# for i in range(n):         # 列（仕事）
-#     if (S >> i) & 1:
-#         continue           # すでに使っている列はスキップ
-#     if a_ij[bin(S).count("1")][i] == 0:
-#         continue           # マッチできない
-#     dp[S | (1 << i)] = (dp[S | (1 << i)] + dp[S]) % MOD
-
